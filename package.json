@@ -1,0 +1,21 @@
+{
+  "name": "peerdeps",
+  "version": "0.0.0",
+  "description": "peer dependency management",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "repository": "attrs/peerdeps",
+  "dependencies": {
+    "async-each-series": "^1.1.0",
+    "chalk": "^2.1.0",
+    "commander": "^2.11.0",
+    "find-root": "^1.1.0",
+    "fs-extra": "^4.0.2",
+    "json5": "^0.5.1"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "README.md"
+  ]
+}
